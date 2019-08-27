@@ -1,0 +1,26 @@
+/Users/adrianamota/Documents/OneDrive/courses/quotes/quotes/obj/Debug/netstandard2.0/quotes.csprojAssemblyReference.cache
+/Users/adrianamota/Documents/OneDrive/courses/quotes/quotes/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/adrianamota/Documents/OneDrive/courses/quotes/quotes/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/adrianamota/Documents/OneDrive/courses/quotes/quotes/obj/Debug/netstandard2.0/Views/QuotesPage.xaml.g.cs
+/Users/adrianamota/Documents/OneDrive/courses/quotes/quotes/obj/Debug/netstandard2.0/quotes.csproj.CoreCompileInputs.cache
+/Users/adrianamota/Documents/OneDrive/courses/quotes/quotes/obj/Debug/netstandard2.0/quotes.AssemblyInfoInputs.cache
+/Users/adrianamota/Documents/OneDrive/courses/quotes/quotes/obj/Debug/netstandard2.0/quotes.AssemblyInfo.cs
+/Users/adrianamota/Documents/OneDrive/courses/quotes/quotes/bin/Debug/netstandard2.0/quotes.deps.json
+/Users/adrianamota/Documents/OneDrive/courses/quotes/quotes/bin/Debug/netstandard2.0/quotes.dll
+/Users/adrianamota/Documents/OneDrive/courses/quotes/quotes/bin/Debug/netstandard2.0/quotes.pdb
+/Users/adrianamota/Documents/OneDrive/courses/quotes/quotes/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/adrianamota/Documents/OneDrive/courses/quotes/quotes/obj/Debug/netstandard2.0/quotes.dll
+/Users/adrianamota/Documents/OneDrive/courses/quotes/quotes/obj/Debug/netstandard2.0/quotes.pdb
+/Users/adrianamota/Documents/OneDrive/courses/Xam/xam 1/quotes/quotes/bin/Debug/netstandard2.0/quotes.deps.json
+/Users/adrianamota/Documents/OneDrive/courses/Xam/xam 1/quotes/quotes/bin/Debug/netstandard2.0/quotes.dll
+/Users/adrianamota/Documents/OneDrive/courses/Xam/xam 1/quotes/quotes/bin/Debug/netstandard2.0/quotes.pdb
+/Users/adrianamota/Documents/OneDrive/courses/Xam/xam 1/quotes/quotes/obj/Debug/netstandard2.0/quotes.csprojAssemblyReference.cache
+/Users/adrianamota/Documents/OneDrive/courses/Xam/xam 1/quotes/quotes/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/adrianamota/Documents/OneDrive/courses/Xam/xam 1/quotes/quotes/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/adrianamota/Documents/OneDrive/courses/Xam/xam 1/quotes/quotes/obj/Debug/netstandard2.0/Views/QuotesPage.xaml.g.cs
+/Users/adrianamota/Documents/OneDrive/courses/Xam/xam 1/quotes/quotes/obj/Debug/netstandard2.0/quotes.csproj.CoreCompileInputs.cache
+/Users/adrianamota/Documents/OneDrive/courses/Xam/xam 1/quotes/quotes/obj/Debug/netstandard2.0/quotes.AssemblyInfoInputs.cache
+/Users/adrianamota/Documents/OneDrive/courses/Xam/xam 1/quotes/quotes/obj/Debug/netstandard2.0/quotes.AssemblyInfo.cs
+/Users/adrianamota/Documents/OneDrive/courses/Xam/xam 1/quotes/quotes/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/adrianamota/Documents/OneDrive/courses/Xam/xam 1/quotes/quotes/obj/Debug/netstandard2.0/quotes.dll
+/Users/adrianamota/Documents/OneDrive/courses/Xam/xam 1/quotes/quotes/obj/Debug/netstandard2.0/quotes.pdb
